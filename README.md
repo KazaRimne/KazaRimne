@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KazaRimne</h1>
+<h1 align="center">Ciallo 👋, I'm KazaRimne</h1>
 <h3 align="center">An illustrator who codes games with Unity.</h3>
 <h3 align="left">My Arts:</h3>
 <p align="center">
