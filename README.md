@@ -8,3 +8,5 @@
 <a href="https://kazarimne.github.io/kazarimneweb">
   kazarimne.github.io
 </a>
+</br>
+<h3 align="left">Languages and Tools:</h3>
