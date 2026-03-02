@@ -66,7 +66,7 @@
   </a>
    </a>
    <a href="https://www.jlpt.jp/e/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Clip_studio_file_logo_SVG.svg" alt="jlpt" width="40" height="40"/>
+    <img src="JLPT_N1.png" alt="jlpt" width="40" height="40"/>
   </a>
   
 </p>
