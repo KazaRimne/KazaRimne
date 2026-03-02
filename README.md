@@ -60,5 +60,13 @@
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
+    </a>
+   <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Clip_studio_file_logo_SVG.svg" alt="arduino" width="40" height="40"/>
+  </a>
+   </a>
+   <a href="https://www.jlpt.jp/e/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Clip_studio_file_logo_SVG.svg" alt="arduino" width="40" height="40"/>
+  </a>
   
 </p>
