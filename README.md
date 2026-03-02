@@ -62,11 +62,11 @@
   </a>
     </a>
    <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Clip_studio_file_logo_SVG.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Clipstudiopaint_app_logo.png" alt="clip" width="40" height="40"/>
   </a>
    </a>
    <a href="https://www.jlpt.jp/e/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Clip_studio_file_logo_SVG.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Clip_studio_file_logo_SVG.svg" alt="jlpt" width="40" height="40"/>
   </a>
   
 </p>
