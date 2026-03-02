@@ -39,6 +39,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+   <img src="VS2022.png" alt="visualstudio2022" width="40" height="40" style="border-radius: 10px;"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
   </a>
@@ -51,9 +57,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -64,7 +67,6 @@
    <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Clipstudiopaint_app_logo.png" alt="clip" width="40" height="40"/>
   </a>
-   </a>
    <a href="https://www.jlpt.jp/e/" target="_blank" rel="noreferrer">
     <img src="JLPTN1.png" alt="jlpt" width="40" height="40" style="border-radius: 12px;"/>
   </a>
