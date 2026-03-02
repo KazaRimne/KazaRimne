@@ -66,7 +66,7 @@
   </a>
    </a>
    <a href="https://www.jlpt.jp/e/" target="_blank" rel="noreferrer">
-    <img src="JLPT_N1.png" alt="jlpt" width="40" height="40"/>
+    <img src="JLPTN1.png" alt="jlpt" width="40" height="40"/>
   </a>
   
 </p>
