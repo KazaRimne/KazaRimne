@@ -11,12 +11,7 @@
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="display: inline-block; width: 40px !important; height: 40px !important;"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="display: inline-block; width: 40px !important; height: 40px !important;"/>
-  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="display: inline-block; width: 40px !important; height: 40px !important;"/></a><a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="display: inline-block; width: 40px !important; height: 40px !important;"/></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="display: inline-block; width: 40px !important; height: 40px !important;"/>
   </a>
